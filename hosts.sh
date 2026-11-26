@@ -17,3 +17,4 @@ cat /etc/hosts | while read ip nume rest; do
 
     verifica "$nume" "$ip" 8.8.8.8
 done
+echo "Script modificat de: Alexia Moga"
